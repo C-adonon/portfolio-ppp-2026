@@ -51,7 +51,7 @@ export default {
       let url;
       if (this.project.pictures && this.project.pictures.length > 0) {
         for (let picture of this.project.pictures) {
-          if (picture.title === this.project.name_slug + "-thumbnail.jpg") {
+          if (picture.title === this.project.name_slug + "-thumbnail.jpg" || picture.title === this.project.name_slug + "-thumbnail.png") {
             url = picture.thumbnails.card_cover.signedUrl;
             return url;
           }
