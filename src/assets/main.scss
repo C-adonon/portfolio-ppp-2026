@@ -8,9 +8,15 @@
 
 body {
   font-family: $clash-display;
+  font-size: $font-body;
+  font-weight: $font-regular;
   background-color: $secondary-050;
-  color: $neutral-700;
+  color: $neutral-800;
   overflow-x: hidden;
+
+  p {
+    text-align: justify;
+  }
 
   main {
     overflow-x: hidden;
@@ -31,4 +37,3 @@ body {
 button {
   font-family: $clash-display;
 }
-

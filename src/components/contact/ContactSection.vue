@@ -5,7 +5,7 @@ import PrimaryBtn from '../ui/PrimaryBtn.vue';
     <div class="contact-container">
         <div class="contact-content">
             <h3>Restons en contact !</h3>
-            <p>Intéressé par mon travail ? N'hésitez pas à me contacter ! Je suis actuellement à la recherche d'une alternance en informatique d'une durée de 24 mois et disponible immédiatement.</p>
+            <p>Intéressé par mon travail ? N'hésitez pas à me contacter ! Je suis actuellement à la recherche d'une alternance en informatique d'une durée de 12 mois et disponible à partir de septembre 2026.</p>
             <PrimaryBtn url="https://www.linkedin.com/in/chloe-adonon/">Contactez-moi</PrimaryBtn>
         </div>
     </div>

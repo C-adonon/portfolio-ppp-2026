@@ -3,6 +3,8 @@ import HomeView from "../views/HomeView.vue";
 import ProjectListView from "../views/ProjectListView.vue";
 import ProjectView from "../views/ProjectView.vue";
 import AboutView from '@/views/AboutView.vue'
+import FormationView from '@/views/FormationView.vue'
+import ExperiencesView from '@/views/ExperiencesView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -27,6 +29,16 @@ const router = createRouter({
       path: "/about",
       name: "about",
       component: AboutView,
+    },
+    {
+      path: "/formation",
+      name: "formation",
+      component: FormationView,
+    },
+    {
+      path: "/experiences",
+      name: "experiences",
+      component: ExperiencesView,
     },
     {
       path: "/:pathMatch(.*)*",

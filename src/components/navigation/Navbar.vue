@@ -16,6 +16,12 @@ import { RouterLink, RouterView } from 'vue-router'
                     <RouterLink to="/about">A propos</RouterLink>
                 </li>
                 <li class="navbar-links">
+                    <RouterLink to="/formation">Formation</RouterLink>
+                </li>
+                <li class="navbar-links">
+                    <RouterLink to="/experiences">Expériences</RouterLink>
+                </li>
+                <li class="navbar-links">
                     <RouterLink to="/projects">Projets</RouterLink>
                 </li>
             </ul>
@@ -106,7 +112,7 @@ nav#navbar {
     }
 
     div.links-container {
-        width: 50%;
+        width: 80%;
         height: 100%;
         display: flex;
 

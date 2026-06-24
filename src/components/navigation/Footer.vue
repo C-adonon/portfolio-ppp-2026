@@ -30,7 +30,7 @@ import SocialBtn from '../ui/SocialBtn.vue';
                 </div>
             </div>
         </div>
-        <p class="footer-copyrights">&copy; 2023 - Tous droits réservés</p>
+        <p class="footer-copyrights">&copy; 2026 - Tous droits réservés</p>
     </footer>
 </template>
 
