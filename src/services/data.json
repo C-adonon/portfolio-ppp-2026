@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "name": "Développement web",
+      "id": 1
+    },
+    {
+      "name": "Branding",
+      "id": 2
+    },
+    {
+      "name": "UX & UI",
+      "id": 3
+    }
+  ],
+  "projects": [
+    {
+      "name": "ESD Digievent 2023",
+      "id": 1,
+      "category_id": [1, 3],
+      "card-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus.",
+      "card-image": "/digievent_home.jpg",
+      "pictures": ["/digievent_card.jpg", "/digievent_home.jpg"],
+      "video": "",
+      "link": "https://www.esd-digievent.com/",
+      "content": []
+    },
+    {
+      "name": "Inoya rebranding",
+      "id": 2,
+      "category_id": [2],
+      "card-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus.",
+      "card-image": "/inoya-card.jpg",
+      "pictures": ["/inoya-card.jpg", "inoya-1.jpg", "inoya-2.jpg"],
+      "video": "",
+      "link": "https://www.esd-digievent.com/",
+      "content": []
+    },
+    {
+      "name": "Black girl Groups",
+      "id": 3,
+      "category_id": [1, 3],
+      "card-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus.",
+      "card-image": "/bgg-card.jpg",
+      "pictures": ["/bgg-card.jpg"],
+      "video": "",
+      "link": "https://www.esd-digievent.com/",
+      "content": []
+    }
+  ]
+}
