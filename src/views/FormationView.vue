@@ -35,12 +35,12 @@ import PrimaryBtn from '../components/ui/PrimaryBtn.vue';
                         techniques que d’autres mais tous complémentaires :
                     </p>
                     <ul>
-                        <li>Compétence 1 : Réaliser un développement d'application</li>
-                        <li>Compétence 2 : Optimiser des applications informatiques</li>
-                        <li>Compétence 3 : Administrer des systèmes informatiques communicants</li>
-                        <li>Compétence 4 : Gérer des données de l'information</li>
-                        <li>Compétence 5 : Conduire un projet</li>
-                        <li>Compétence 6 : Travailler dans une équipe informatique</li>
+                        <li><u>Compétence 1 :</u> Réaliser un développement d'application</li>
+                        <li><u>Compétence 2 :</u> Optimiser des applications informatiques</li>
+                        <li><u>Compétence 3 :</u> Administrer des systèmes informatiques communicants</li>
+                        <li><u>Compétence 4 :</u> Gérer des données de l'information</li>
+                        <li><u>Compétence 5 :</u> Conduire un projet</li>
+                        <li><u>Compétence 6 :</u> Travailler dans une équipe informatique</li>
                     </ul>
                     <span>Elles sont abordées de manière transversale lors de différents projets universitaires et d'
                         enseignements.
@@ -85,10 +85,12 @@ section {
 h2 {
     margin-bottom: 2%;
 }
+
 img {
     display: inline;
     height: 50px;
 }
+
 p {
     margin-bottom: 2%;
     text-indent: 2em;
@@ -116,7 +118,6 @@ section.about-content {
             p,
             ul {
                 margin-bottom: 4%;
-                text-indent: 2em;
             }
         }
     }

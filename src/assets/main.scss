@@ -18,9 +18,9 @@ body {
     text-align: justify;
   }
 
- ul {
-  padding-left: 3rem;
-}
+  ul {
+    padding-left: 3rem;
+  }
 
   main {
     overflow-x: hidden;
@@ -34,6 +34,19 @@ body {
   body {
     main {
       margin-top: 56px;
+    }
+    section {
+      width: 90% !important;
+      margin: 0 auto 4% auto;
+    }
+    section.about-content {
+      padding: 0 !important;
+    }
+    ul,span,p {
+      text-align: justify;
+    }
+    ul {
+      padding-left: 1rem;
     }
   }
 }

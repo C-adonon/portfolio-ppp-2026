@@ -2,6 +2,7 @@
 import TopTitle from '../components/ui/TopTitle.vue';
 import CardSuggestion from '../components/card/CardSuggestion.vue';
 import PrimaryBtn from '../components/ui/PrimaryBtn.vue';
+import SkillsSection from '../components/section/SkillsSection.vue';
 </script>
 
 <template>
@@ -45,7 +46,8 @@ import PrimaryBtn from '../components/ui/PrimaryBtn.vue';
     <section>
       <h2>Mes compétences techniques :</h2>
       <span>Voici l’ensemble des savoir-faire techniques que j’ai acquis :</span>
-      <ul>
+      <SkillsSection />
+      <!-- <ul>
         <li>Langages : JavaScript, Java, Python</li>
         <li>Frontend : HTML, CSS/SASS, Vue.js</li>
         <li>Backend : Node.js, Express.js, Prisma, ORM, Flask, Jinja</li>
@@ -55,7 +57,7 @@ import PrimaryBtn from '../components/ui/PrimaryBtn.vue';
         <li>Suite Adobe (Illustrator, Photoshop)</li>
         <li>Gestion de projet : Jira, Confluence</li>
         <li>Bureautique : Word, PowerPoint, Excel</li>
-      </ul>
+      </ul> -->
 
       <h3>Mes compétences phares :</h3>
       <p>Mon appétence pour le JavaScript, l’HTML et le CSS a été développée au cours de différentes expériences
