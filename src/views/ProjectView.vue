@@ -107,6 +107,10 @@ export default {
 <style scoped lang="scss">
 @use "../assets/variables.scss" as v;
 
+p {
+  text-indent: 2em;
+}
+
 section.project-content {
   width: 80%;
   margin: 4% auto 8% auto;

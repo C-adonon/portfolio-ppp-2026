@@ -70,6 +70,38 @@ import PrimaryBtn from '../components/ui/PrimaryBtn.vue';
         et les attendus du cahier des charges lors de la phase de conception logicielle.
       </p>
     </section>
+    <section>
+      <h2>Mes qualités :</h2>
+      <p>Mon <b>dynamisme et mon sérieux</b> me permettent de m’intégrer rapidement au sein d’équipes
+        pluridisciplinaires et
+        d'appréhender clairement leur processus organisationnel afin d’être la plus efficace possible. Cela a été le
+        cas, durant mon expérience en alternance chez Mobilize Financial Services, où j’occupais un poste au carrefour
+        de plusieurs services. J’ai dû assimiler plusieurs processus, règles métiers et méthodes de travail pour être
+        opérationnelle dans les meilleurs délais et contribuer au développement de l’outil EAR. Cette capacité
+        d’adaptation m’a permis de gagner en autonomie et de maintenir une communication efficiente avec les parties
+        prenantes.</p>
+
+      <p>Ces deux premières qualités vont de pair avec les deux prochaines : la <b>compassion et la bienveillance</b>.
+        En
+        effet, l’une de mes missions pendant mon alternance était d’organiser des sessions de formation et de
+        vulgarisation de l’outil que je développais. Au vue de sa complexité, certains utilisateurs ne parvenaient pas à
+        le prendre en main. Au lieu de simplement répéter les mêmes explications et actions, j’ai cherché à comprendre
+        les blocages des utilisateurs et j’ai adapté mon discours en proposant des exemples, des sessions personnalisées
+        ou en modifiant mon support de formation.</p>
+
+      <p>Je m’efforce également de mettre ma <b>créativité</b> au service des projets qui me sont confiés. Je porte une
+        attention particulière à mettre une part d’inventivité dans tous mes projets et particulièrement en design et
+        dans ma pratique de la poterie. Ces deux domaines nécessitent d’appliquer des règles et méthodes mais aussi et
+        surtout, elles font appellent à notre imagination et à notre individualité.</p>
+
+      <p>
+        Enfin, afin de m’adapter aux évolutions et exigences de chaque projet et de prioriser mes tâches, je reste
+        <b>organisée et orientée résultats</b>. Lors des différents projets universitaires menés au cours de ma
+        scolarité, j’ai
+        tenté de conserver une méthode de travail alliant flexibilité, écoute active et agilité. Cela me permet
+        d'appréhender au mieux les enjeux de chaque projet.
+      </p>
+    </section>
     <CardSuggestion />
   </main>
 </template>
